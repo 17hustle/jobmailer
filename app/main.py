@@ -1,4 +1,5 @@
 import streamlit as st
+import langchain
 from langchain.document_loaders import WebBaseLoader
 from chains import Chain
 from portfolio import Portfolio
