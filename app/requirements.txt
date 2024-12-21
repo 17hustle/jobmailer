@@ -1,6 +1,6 @@
 streamlit
 langchain
-chromadb
-langchain_community
-langchain_core
-langchain_groq
+langchain-community
+langchain-core
+langchain-groq
+python-dotenv
